@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif
+
+![dev_gif](https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif)
 <!--
 **YisusOnDev/YisusOnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
