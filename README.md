@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning NodeJS.
 - 🤔 I’m looking for help in all i can.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YisusOnDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=YisusOnDev&show_icons=true&theme=dark)
