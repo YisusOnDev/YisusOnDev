@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Yisus a <Junior Developer>
+### Hi there 👋 I'm Yisus a "Junior Developer"
 
 - 🔭 I’m currently working on MoleCorp Club.
 - 🌱 I’m currently learning NodeJS.
