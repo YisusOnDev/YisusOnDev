@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning NodeJS.
 - 🤔 I’m looking for help in all i can.
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=YisusOnDev&show_icons=true&theme=dark)
