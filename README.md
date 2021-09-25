@@ -1,6 +1,7 @@
 <p align='center'>
-<a href="https://twitter.com/YisusTM_01"><img height="30" src="https://github.com/KamiKeys/KamiKeys/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/YisusTM_01"><img height="30" src="https://github.com/KamiKeys/KamiKeys/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitch.tv/YisusTM_01"><img height="64" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/twitch-512.png"></a>&nbsp;&nbsp;   
+<a href="https://twitter.com/YisusTM_01"><img height="64" src="https://github.com/KamiKeys/KamiKeys/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/YisusTM_01"><img height="64" src="https://github.com/KamiKeys/KamiKeys/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>  
 
 ### Hello there! 👋
