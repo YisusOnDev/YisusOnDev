@@ -1,12 +1,12 @@
 <p align='center'>
 <a href="https://twitch.tv/YisusTM_01"><img height="64" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/twitch-512.png"></a>&nbsp;&nbsp;   
-<a href="https://twitter.com/YisusTM_01"><img height="64" src="https://github.com/KamiKeys/KamiKeys/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/YisusTM_01"><img height="64" src="https://github.com/KamiKeys/KamiKeys/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/YisusTM_01"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/YisusTM_01"><img height="64" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-256.png"></a>&nbsp;&nbsp;
 </p>  
 
 ### Hello there! 👋
 
-Hi! My name is Jesús Téllez `AKA Yisus`, junior developer and content creator on @Twitch.
+Hi! My name is Jesús Téllez 'AKA' Yisus, junior developer and content creator on @Twitch.
 
 I love learning new things and creating projects that people can enjoy, that's why I started my career creating game servers using my own scripts.
 Also, for years I've been acquiring knowledge together with my community on Twitch.
