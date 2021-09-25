@@ -19,7 +19,7 @@ Also, for years I've been acquiring knowledge together with my community on Twit
 ## Used
 
    <p align="center">
-      <img src="https://github.com/YisusOnDev/YisusOnDev/blob/main/luaa.svg" />
+      <img src="https://github.com/YisusOnDev/YisusOnDev/blob/main/lua.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" />
