@@ -1,7 +1,6 @@
 <p align='center'>
-<a href="https://twitter.com/JavierAmadoM"><img height="30" src="https://github.com/KamiKeys/KamiKeys/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/javieramadom"><img height="30" src="https://github.com/KamiKeys/KamiKeys/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/javier-miguel-amado/"><img height="30" src="https://github.com/KamiKeys/KamiKeys/blob/master/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/YisusTM_01"><img height="30" src="https://github.com/KamiKeys/KamiKeys/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/YisusTM_01"><img height="30" src="https://github.com/KamiKeys/KamiKeys/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>  
 
 ### Hello there! 👋
