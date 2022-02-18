@@ -29,6 +29,8 @@ Also, for years I've been acquiring knowledge together with my community on Twit
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" />
       <img src="https://github.com/YisusOnDev/YisusOnDev/blob/main/typescript.svg" />
       <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/angular.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/jquery.svg" />
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/vue.svg" />
    </p>  
    
 ## Tools
