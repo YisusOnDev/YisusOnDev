@@ -44,6 +44,6 @@ Also, for years I've been acquiring knowledge together with my community on Twit
 ## Stats   
 
    <p align="center">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=YisusOnDev&layout=compact&theme=react&hide_border=true&count_private=true"/>
+      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=YisusOnDev&layout=compact&theme=react&hide_border=true&count_private=true&show_icons=true"/>
    </p>
    
