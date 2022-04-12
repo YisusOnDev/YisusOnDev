@@ -6,6 +6,8 @@
 
 ### Hello there! 👋
 
+### For the memory : https://github.com/YisusOnDev/esplace-war/commit/3ea9060e1975d8c1111d1a18778b4c1b87a63881
+
 Hi! My name is Jesús Téllez 'AKA' Yisus, junior developer and content creator on @Twitch.
 
 I love learning new things and creating projects that people can enjoy, that's why I started my career creating game servers using my own scripts.
