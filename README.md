@@ -6,7 +6,7 @@
 
 ### Hello there! 👋
 
-Hi! My name is Jesús Téllez 'AKA' Yisus, junior developer and content creator on @Twitch.
+Hi! My name is Jesús Téllez 'AKA' Yisus, developer and content creator on @Twitch.
 
 I love learning new things and creating projects that people can enjoy, that's why I started my career creating game servers using my own scripts.
 Also, for years I've been acquiring knowledge together with my community on Twitch.
