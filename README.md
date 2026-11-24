@@ -32,7 +32,9 @@ I'm Jesús, a dev from Málaga 🇪🇸. Started out years ago writing my own sc
   </a>
 </p>
 
-### 📦 some stuff I've made
+### 📦 some open source stuff I've made
+
+<sub>(the rest lives in private repos 👀)</sub>
 
 | | |
 | --- | --- |
