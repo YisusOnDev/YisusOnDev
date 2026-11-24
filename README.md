@@ -5,10 +5,6 @@
 dev by day, streamer by night, and breaking stuff in between 🛠️🎮
 
 <a href="https://yisus.dev"><img src="https://img.shields.io/badge/yisus.dev-0d1117?style=for-the-badge&logo=astro&logoColor=white" alt="Website"></a>
-<a href="https://twitch.tv/YisusTM_01"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
-<a href="https://x.com/YisusTM_01"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-<a href="https://instagram.com/YisusTM_01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/yisustm01/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
@@ -16,9 +12,9 @@ dev by day, streamer by night, and breaking stuff in between 🛠️🎮
 
 ### 🤙 so, who's this guy?
 
-I'm Jesús, a dev & content creator from Málaga 🇪🇸. Started out years ago hacking together scripts for my own game servers, and somehow never stopped.
+I'm Jesús, a dev & content creator from Málaga 🇪🇸. Started out years ago writing my own scripts for my game servers, and somehow never stopped.
 
-- 🎥 I build stuff for streamers and gamers, usually live on [Twitch](https://twitch.tv/YisusTM_01) with the homies watching me fight bugs
+- 🎥 I build stuff for streamers and gamers, usually live on stream with the homies watching me fight bugs
 - 🏆 Been behind the scenes of some big Spanish streamer events: **Egoland**, **Marbella Vice**, **DayZ 151**, **14 Days**, **Tarde Old School**…
 - 🚗 Spent way too many hours in the **FiveM** scene: scripts, servers, roleplay, races, you name it
 - 🧪 Lately: Next.js web apps, plus some Python & Rust gaming experiments
@@ -36,15 +32,15 @@ I'm Jesús, a dev & content creator from Málaga 🇪🇸. Started out years ago
   </a>
 </p>
 
-### 🔥 things I've been cooking
+### 📦 some stuff I've made
 
 | | |
 | --- | --- |
-| 🕹️ [**smoovplay**](https://github.com/YisusOnDev/smoovplay) | Your console. Your GPU. Smoother gameplay. Open-source real-time frame gen & upscaling for console gaming. |
-| 🗺️ [**Leonida**](https://github.com/YisusOnDev/Leonida) | Community-driven continuation of the Leonida project. |
 | 🌐 [**yisus.dev**](https://github.com/YisusOnDev/yisus.dev) | My little cyberpunk corner of the internet, built with Astro. |
-| 🏁 [**custom_races**](https://github.com/YisusOnDev/custom_races) | GTA Online races in FiveM: load 'em, create 'em, race 'em. |
-| 🇪🇸 [**esplace-war**](https://github.com/YisusOnDev/esplace-war) | The r/place 2022 battle for Spain. 100+ ⭐, thanks y'all ❤️ |
+| 🇪🇸 [**esplace-war**](https://github.com/YisusOnDev/esplace-war) | Custom orders for the r/place 2022 battle for Spain. 100+ ⭐, thanks y'all ❤️ |
+| 🏁 [**RockstarRacingTool**](https://github.com/YisusOnDev/RockstarRacingTool) | Tauri app that turns Rockstar race jobs JSON into something actually readable. |
+| 🔄 [**RockstarCloudXMLToJson**](https://github.com/YisusOnDev/RockstarCloudXMLToJson) | Converts R* Cloud XML to plain JSON. Used it to bring races into FiveM. |
+| 💼 [**PracticeJob**](https://github.com/YisusOnDev/PracticeJob_API) | Full-stack combo: [.NET API](https://github.com/YisusOnDev/PracticeJob_API) + [Angular web](https://github.com/YisusOnDev/PracticeJob_Angular) + [Flutter app](https://github.com/YisusOnDev/PracticeJob_Flutter). |
 
 ### 📊 nerd stats
 
