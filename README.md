@@ -2,7 +2,7 @@
 
 # hey, I'm Yisus 👋
 
-dev by day, streamer by night, and breaking stuff in between 🛠️🎮
+building stuff, breaking stuff, and occasionally fixing it 🛠️🎮
 
 <a href="https://yisus.dev"><img src="https://img.shields.io/badge/yisus.dev-0d1117?style=for-the-badge&logo=astro&logoColor=white" alt="Website"></a>
 
@@ -12,9 +12,9 @@ dev by day, streamer by night, and breaking stuff in between 🛠️🎮
 
 ### 🤙 so, who's this guy?
 
-I'm Jesús, a dev & content creator from Málaga 🇪🇸. Started out years ago writing my own scripts for my game servers, and somehow never stopped.
+I'm Jesús, a dev from Málaga 🇪🇸. Started out years ago writing my own scripts for my game servers, and somehow never stopped.
 
-- 🎥 I build stuff for streamers and gamers, usually live on stream with the homies watching me fight bugs
+- 🎥 I build stuff for streamers and gamers (used to code live on Twitch too, currently on a looong break)
 - 🏆 Been behind the scenes of some big Spanish streamer events: **Egoland**, **Marbella Vice**, **DayZ 151**, **14 Days**, **Tarde Old School**…
 - 🚗 Spent way too many hours in the **FiveM** scene: scripts, servers, roleplay, races, you name it
 - 🧪 Lately: Next.js web apps, plus some Python & Rust gaming experiments
